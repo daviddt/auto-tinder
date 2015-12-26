@@ -1,0 +1,14 @@
+{
+  "name": "auto-tinder",
+  "version": "1.0.0",
+  "description": "Automatically finds tinder matches",
+  "main": "app.js",
+  "keywords": [
+    "tinder"
+  ],
+  "author": "David den Toom",
+  "license": "MIT",
+  "devDependencies": {
+    "tinderjs": "^1.0.8"
+  }
+}
